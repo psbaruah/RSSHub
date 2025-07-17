@@ -22118,6 +22118,20 @@
       }
     ]
   },
+  "kiro.dev": {
+    "_name": "Kiro",
+    ".": [
+      {
+        "title": "Blog",
+        "docs": "https://docs.rsshub.app/routes/programming",
+        "source": [
+          "/",
+          "/blog/"
+        ],
+        "target": "/kiro/blog"
+      }
+    ]
+  },
   "kisskiss.tv": {
     "_name": "KISS",
     "www": [
@@ -26789,6 +26803,16 @@
           "/:type/list.htm"
         ],
         "target": "/nankai/cc/:type?"
+      }
+    ],
+    "jwc": [
+      {
+        "title": "教务处通知公告",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/tzgg/list.htm"
+        ],
+        "target": "/nankai/jwc"
       }
     ],
     "www": [

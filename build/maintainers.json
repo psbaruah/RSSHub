@@ -4547,6 +4547,9 @@
   "/kimlaw/thesis": [
     "TonyRL"
   ],
+  "/kiro/blog": [
+    "nczitzk"
+  ],
   "/kisskiss/blog/:category?": [
     "keocheung"
   ],
@@ -5224,6 +5227,9 @@
     "nczitzk"
   ],
   "/nankai/cc/:type?": [
+    "vicguo0724"
+  ],
+  "/nankai/jwc": [
     "vicguo0724"
   ],
   "/nankai/notice": [
